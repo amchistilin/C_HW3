@@ -1,0 +1,15 @@
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\bin\Debug\net6.0\EX4.exe
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\bin\Debug\net6.0\EX4.deps.json
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\bin\Debug\net6.0\EX4.runtimeconfig.json
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\bin\Debug\net6.0\EX4.dll
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\bin\Debug\net6.0\EX4.pdb
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.csproj.AssemblyReference.cache
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.AssemblyInfoInputs.cache
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.AssemblyInfo.cs
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.dll
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\refint\EX4.dll
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.pdb
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\EX4.genruntimeconfig.cache
+C:\Users\artyo\Desktop\GB\C#\Lesson3_HW\Exercises\EX4\obj\Debug\net6.0\ref\EX4.dll
